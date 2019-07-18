@@ -7,5 +7,5 @@
 *HTML
 *CSS
 *JS
-*JQUERY...
+*JQUERY
 ~~~
